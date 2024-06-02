@@ -1,0 +1,16 @@
+Actualización: Jun 1, 2024 07:08:36 UTC
+Moneda: USD - ($) United States Dollar
+ - Cambio: 67686.8357
+Moneda: GBP - (£) British Pound Sterling
+ - Cambio: 53141.8824
+Moneda: EUR - (€) Euro
+ - Cambio: 62341.0648
+
+Actualización: Jun 1, 2024 07:09:05 UTC
+Moneda: USD - ($) United States Dollar
+ - Cambio: 67682.6854
+Moneda: GBP - (£) British Pound Sterling
+ - Cambio: 53138.6238
+Moneda: EUR - (€) Euro
+ - Cambio: 62337.2422
+
